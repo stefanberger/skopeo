@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/containers/common v0.23.0
 	github.com/containers/image/v5 v5.6.0
-	github.com/containers/ocicrypt v1.0.3
+	github.com/containers/ocicrypt v1.0.4-0.20201019210254-ee875c9741e7
 	github.com/containers/storage v1.23.5
 	github.com/docker/docker v1.4.2-0.20191219165747-a9416c67da9f
 	github.com/dsnet/compress v0.0.1 // indirect
